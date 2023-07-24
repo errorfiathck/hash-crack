@@ -4,12 +4,10 @@
 - Soporta MD5, SHA1, SHA-224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384, SHA3-512.
 - Guarda los hashes crackeados en un archivo de texto plano.
 
-![Supportedhashes](https://user-images.githubusercontent.com/75953873/176814598-71f2025a-77b6-46c6-828b-3967d44e22b4.png)
-
 
 ## Instalación:
 ```
-> git clone https://github.com/R3LI4NT/hashCRACK
+> git clone https://github.com/errorfiathck/hash-crack
 
 > cd hashCrack
 
