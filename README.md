@@ -1,5 +1,5 @@
 
-## Características
+## Characteristics
 - Sport intake, Sha1, Sha1224, Shakht, Sha14, Shakh12, Sha1224, Shakhat, Sha1384, Sha1512.
 - Save the cracked hashes to a plain text file.
 
