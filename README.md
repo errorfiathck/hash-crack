@@ -1,10 +1,10 @@
 
 ## Características
-- Soporta MD5, SHA1, SHA-224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384, SHA3-512.
-- Guarda los hashes crackeados en un archivo de texto plano.
+- Sport intake, Sha1, Sha1224, Shakht, Sha14, Shakh12, Sha1224, Shakhat, Sha1384, Sha1512.
+- Save the cracked hashes to a plain text file.
 
 
-## Instalación:
+## Installation:
 ```
 > git clone https://github.com/errorfiathck/hash-crack
 
@@ -13,7 +13,7 @@
 > python hashcrack.py
 ```
 
-## Uso:
+## Use:
 | COMMAND | HASH |
 | ------------- | ------------- |
 | --md5 | MD5  |
@@ -27,7 +27,7 @@
 | --sha3-384  | SHA3-384  |
 | --sha3-512  | SHA3-512  |
 
-### Otros:
+### Others:
 | COMMAND | DESCRIPTION |
 | ------------- | ------------- |
 | -w / --wordlist | Wordlist for brute force attack |
